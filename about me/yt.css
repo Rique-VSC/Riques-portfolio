@@ -1,0 +1,63 @@
+body{
+    font-family: 'Kay Pho Du';font-size: 22px;
+      background-color: rgb(255, 250, 226);
+  }
+  
+  h1{
+    text-align: center;
+  }
+
+  h2{
+    text-align: center;
+  }
+
+  section1 {
+    font-size: larger;
+    text-align: right;
+}
+
+.ITR{
+    font-size: xx-large;
+    margin-left: 40%;
+    margin-top: 4%;
+    text-align: left;
+    margin-right: 20%;
+    margin-right: 30%;
+}
+
+  section1 img{
+    width: 750px;           
+    height: auto;
+    margin-top: -15%;
+}
+
+section2 {
+    font-size: larger;
+    text-align: right;
+}
+
+section2 img{
+    width: 750px;           
+    height: auto;
+    margin-left: 70%;
+}
+
+section3 {
+    font-size: larger;
+    text-align: right;
+}
+
+section3 img{
+    margin-top: -50%;
+    width: 750px;           
+    height: auto;
+}
+
+.BRC{
+    font-size: xx-large;
+    margin-left: 40%;
+    margin-top: 0%;
+    text-align: left;
+    margin-right: 20%;
+    margin-right: 30%;
+}
