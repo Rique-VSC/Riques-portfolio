@@ -1,0 +1,58 @@
+h1{
+    text-align: center;
+}
+
+img[src*="images (6) 1.png"] {
+    width: 50px;
+    height: auto; 
+}
+
+img[src*="images (6) 1.png"]:hover {
+    transform: scale(1.1);
+}
+
+article1 img {
+    width: 350px;           
+    height: auto;
+    transition: transform 0.3s ease;
+    cursor: pointer;
+    text-align: center;
+}
+
+
+article1 img:hover {
+    transform: scale(1.1);
+}
+
+article2 img {
+    width: 350px;           
+    height: auto;
+    transition: transform 0.3s ease;
+    cursor: pointer;
+    text-align: center;
+}
+
+article2 img:hover {
+    transform: scale(1.1);
+}
+
+.MP{
+    font-size: larger;
+    margin-left: 7%;
+    margin-top: -1%;
+}
+
+.hobbies{
+    font-size: larger;
+    margin-left: 5%;
+    margin-top: -1%
+}
+
+button {
+    padding: 10px 25px;   
+    font-size: 1.1rem;     
+    cursor: pointer;       
+    border-radius: 8px;    
+}
+
+
