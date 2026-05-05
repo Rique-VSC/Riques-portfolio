@@ -17,19 +17,44 @@ body{
 }
 
 .ITR{
-    font-size: xx-large;
-    margin-left: 40%;
-    margin-top: 4%;
+  font-size: 147%;
+    margin-left: 31.5%;
+    margin-top: 5%;
     text-align: left;
-    margin-right: 20%;
-    margin-right: 30%;
+    margin-right: 26%;
+    margin-bottom: -2.8%;
+
 }
 
+.YT1{
+  font-size: 180%;
+  margin-bottom: -4%;
+  margin-left: 6%;
+}
+
+
   section1 img{
-    width: 750px;           
+    width: 630px;           
     height: auto;
     margin-top: -15%;
 }
+
+.YT2{
+  font-size: 180%;
+  margin-top: 6%;
+  margin-right: 13%;
+}
+
+
+.Indies{
+  font-size: 147%;
+  margin-left: 23%;
+  margin-top: -1%;
+  text-align: left;
+  margin-right: 33%;
+  margin-bottom: -17%;
+}
+
 
 section2 {
     font-size: larger;
@@ -37,7 +62,7 @@ section2 {
 }
 
 section2 img{
-    width: 750px;           
+    width: 603px;           
     height: auto;
     margin-left: 70%;
 }
@@ -49,15 +74,20 @@ section3 {
 
 section3 img{
     margin-top: -50%;
-    width: 750px;           
+    width: 610px;           
     height: auto;
 }
 
+.YT3{
+  font-size: 180%;
+  margin-left: 5.5%;
+}
+
 .BRC{
-    font-size: xx-large;
-    margin-left: 40%;
+  font-size: 147%;
+    margin-left: 31%;
     margin-top: 0%;
+    margin-bottom: -1%;
     text-align: left;
-    margin-right: 20%;
-    margin-right: 30%;
+    margin-right: 19%;
 }

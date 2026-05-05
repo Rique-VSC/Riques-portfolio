@@ -5,7 +5,6 @@ body{
 
 
 
-
 h2 {
 text-align: center;
 }
@@ -16,9 +15,25 @@ section1 {
 }
 
 section1 img{
-    width: 550px;           
+    width: 570px;           
     height: auto;
 }
+
+.GamGam{
+    font-size: 200%;
+    margin-right: 29.7%;
+    margin-bottom: -1%;
+}
+
+.HB1{
+    font-size: 147%;
+    margin-left: 31%;
+    margin-right:32%;
+    margin-bottom: -17%;
+    text-align: left;
+}
+
+
 
 section2 {
     font-size: larger;
@@ -26,9 +41,24 @@ section2 {
 }
 
 section2 img{
-    width: 550px;           
+    width: 570px;           
     height: auto;
     margin-left: 70%;
+}
+
+.Edit{
+    font-size: 200%;
+    margin-left: 34%;
+    margin-bottom: 3%;
+}
+
+
+.HB2{
+    font-size: 147%;
+    margin-left: 50%;
+    margin-right:29%;
+    margin-bottom: -17%;
+    text-align: right;
 }
 
 
@@ -37,9 +67,27 @@ section3 {
 }
 
 section3 img{
-    width: 550px;           
+    width: 570px;           
     height: auto;
 }
+
+.modding{
+    font-size: 200%;
+    margin-right: 32%;
+    margin-bottom: 6%;
+}
+
+.HB3{
+    font-size: 147%;
+    margin-left: 29%;
+    margin-right:36%;
+    margin-bottom: -14.8%;
+    text-align: left;
+    margin-top: -4%;
+}
+
+
+
 
 button {
     padding: 10px 25px;   
