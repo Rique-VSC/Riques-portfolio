@@ -1,6 +1,10 @@
 body{
   font-family: 'Kay Pho Du';font-size: 22px;
     background-color: rgb(255, 250, 226);
+    border-style: solid;
+    border-color: #727D71;
+    border-width: 2dvh;
+    margin: 0;
 }
 
 
@@ -17,6 +21,7 @@ section1 {
 section1 img{
     width: 570px;           
     height: auto;
+    margin-left: -.1%;
 }
 
 .GamGam{
@@ -69,6 +74,8 @@ section3 {
 section3 img{
     width: 570px;           
     height: auto;
+    margin-left: -.1%;
+    margin-bottom: -.5%;
 }
 
 .modding{

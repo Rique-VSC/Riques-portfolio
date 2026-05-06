@@ -1,6 +1,11 @@
 body{
     font-family: 'Kay Pho Du';font-size: 22px;
       background-color: rgb(255, 250, 226);
+      border-style: solid;
+    border-color: #727D71;
+    border-width: 2dvh;
+    margin: 0;
+
   }
   
   h1{
@@ -18,7 +23,7 @@ body{
 
 .ITR{
   font-size: 147%;
-    margin-left: 31.5%;
+    margin-left: 31.7%;
     margin-top: 5%;
     text-align: left;
     margin-right: 26%;
@@ -29,7 +34,7 @@ body{
 .YT1{
   font-size: 180%;
   margin-bottom: -4%;
-  margin-left: 6%;
+  margin-left: 6.8%;
 }
 
 
@@ -42,7 +47,7 @@ body{
 .YT2{
   font-size: 180%;
   margin-top: 6%;
-  margin-right: 13%;
+  margin-right: 11%;
 }
 
 
@@ -64,7 +69,7 @@ section2 {
 section2 img{
     width: 603px;           
     height: auto;
-    margin-left: 70%;
+    margin-left: 69.7%;
 }
 
 section3 {
@@ -76,6 +81,12 @@ section3 img{
     margin-top: -50%;
     width: 610px;           
     height: auto;
+    margin-bottom: -.3%;
+    transition: all 0.3s ease;
+}
+
+section3 img:hover{
+    transform: scale(1.2) rotate(15deg);
 }
 
 .YT3{
@@ -87,7 +98,7 @@ section3 img{
   font-size: 147%;
     margin-left: 31%;
     margin-top: 0%;
-    margin-bottom: -1%;
+    margin-bottom: -1.4%;
     text-align: left;
     margin-right: 19%;
 }
