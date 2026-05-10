@@ -23,7 +23,7 @@ body{
 
 .ITR{
   font-size: 147%;
-    margin-left: 31.7%;
+    margin-left: 27.7%;
     margin-top: 5%;
     text-align: left;
     margin-right: 26%;
@@ -34,15 +34,22 @@ body{
 .YT1{
   font-size: 180%;
   margin-bottom: -4%;
-  margin-left: 6.8%;
+  margin-left: -9%;
 }
 
 
   section1 img{
     width: 630px;           
     height: auto;
-    margin-top: -15%;
+    margin-top: -11%;
+     transition: all 0.3s ease;
 }
+
+
+section1 img:hover{
+  transform: scale(1.2) rotate(15deg);
+}
+
 
 .YT2{
   font-size: 180%;
@@ -53,11 +60,11 @@ body{
 
 .Indies{
   font-size: 147%;
-  margin-left: 23%;
+  margin-left: 27%;
   margin-top: -1%;
   text-align: left;
   margin-right: 33%;
-  margin-bottom: -17%;
+  margin-bottom: -12%;
 }
 
 
@@ -70,7 +77,14 @@ section2 img{
     width: 603px;           
     height: auto;
     margin-left: 69.7%;
+    margin-top: 3%;
+     transition: all 0.3s ease;
 }
+
+section2 img:hover{
+    transform: scale(1.2) rotate(-15deg);
+}
+
 
 section3 {
     font-size: larger;
@@ -91,13 +105,13 @@ section3 img:hover{
 
 .YT3{
   font-size: 180%;
-  margin-left: 5.5%;
+  margin-left: -11%;
 }
 
 .BRC{
   font-size: 147%;
-    margin-left: 31%;
-    margin-top: 0%;
+    margin-left: 26%;
+    margin-top: -1.6%;
     margin-bottom: -1.4%;
     text-align: left;
     margin-right: 19%;

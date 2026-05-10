@@ -22,19 +22,20 @@ section1 img{
     width: 570px;           
     height: auto;
     margin-left: -.1%;
+    margin-top: 5%;
 }
 
 .GamGam{
     font-size: 200%;
-    margin-right: 29.7%;
+    margin-right: 44.8%;
     margin-bottom: -1%;
 }
 
 .HB1{
     font-size: 147%;
-    margin-left: 31%;
-    margin-right:32%;
-    margin-bottom: -17%;
+    margin-left: 24%;
+    margin-right:39%;
+    margin-bottom: -15.5%;
     text-align: left;
 }
 
@@ -80,15 +81,15 @@ section3 img{
 
 .modding{
     font-size: 200%;
-    margin-right: 32%;
-    margin-bottom: 6%;
+    margin-right: 42%;
+    margin-bottom: 4.9%;
 }
 
 .HB3{
     font-size: 147%;
-    margin-left: 29%;
-    margin-right:36%;
-    margin-bottom: -14.8%;
+    margin-left: 25%;
+    margin-right:49%;
+    margin-bottom: -12.3%;
     text-align: left;
     margin-top: -4%;
 }
@@ -100,7 +101,8 @@ button {
     padding: 10px 25px;   
     font-size: 1.1rem;     
     cursor: pointer;       
-    border-radius: 8px;    
+    border-radius: 8px;   
+    margin-left: 95%; 
 }
 
 button:hover {
