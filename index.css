@@ -1,0 +1,104 @@
+body {
+    font-family: 'Kay Pho Du';
+    font-size: 22px;
+    background-color: rgb(255, 250, 226);
+    border-style: solid;
+    border-color: #727D71;
+    border-width: 2dvh;
+    margin: 0;
+    min-height: 100vh;
+    box-sizing: border-box;
+
+}
+
+
+.pawpal {
+    max-width: 350px;
+    margin-left: 20%;
+    transition: all 0.3s ease;
+    text-align: center;
+}
+
+.pawpal:hover {
+    transform: scale(1.1)
+}
+
+
+.Bioshield {
+    max-width: 350px;
+    margin-left: 43%;
+    margin-top: -45%;
+    margin-bottom: 2%;
+    transition: all 0.3s ease;
+    text-align: center;
+
+}
+
+
+.Bioshield:hover {
+    transform: scale(1.1)
+}
+
+
+.Zoologix {
+
+    max-width: 350px;
+    margin-left: 65%;
+    margin-top: -55%;
+    margin-bottom: 3.7%;
+    transition: all 0.3s ease;
+    text-align: center;
+
+
+}
+
+
+.Zoologix:hover {
+    transform: scale(1.1)
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  position: relative; 
+  z-index: 10;
+}
+
+ul li {
+  position: absolute;
+  width: 350px;
+  text-align: center;
+  font-weight: bold;
+    font-size: xx-large;
+}
+
+
+
+ul li:nth-child(1) {
+  left: 20%;
+  top: 501px; 
+    font-size: xx-large;
+
+}
+
+
+ul li:nth-child(2) {
+  left: 43.3%;
+  top: 501px;
+    font-size: xx-large;
+}
+
+ul li:nth-child(3) {
+  left: 65%;
+  top: 501px;
+  font-size: xx-large;
+}
+
+.WD{
+margin-left: 89%;
+margin-top: -5%;
+margin-bottom: 5%;
+
+
+}
