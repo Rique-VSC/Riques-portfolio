@@ -7,7 +7,14 @@ body{
     margin: 0;
 }
 
+@media (min-width: 30em) and (max-width: 50em) {
+}
 
+@media (30em <= width <= 50em) {
+}
+
+@media (50em >= width >= 30em) {
+}
 
 h2 {
 text-align: center;
@@ -22,18 +29,18 @@ section1 img{
     width: 570px;           
     height: auto;
     margin-left: -.1%;
-    margin-top: 5%;
+    margin-top: -4%;
 }
 
 .GamGam{
     font-size: 200%;
-    margin-right: 44.8%;
+    margin-right: 42.8%;
     margin-bottom: -1%;
 }
 
 .HB1{
     font-size: 147%;
-    margin-left: 24%;
+    margin-left: 29%;
     margin-right:39%;
     margin-bottom: -15.5%;
     text-align: left;
@@ -73,23 +80,24 @@ section3 {
 }
 
 section3 img{
-    width: 570px;           
+    width: 530px;           
     height: auto;
     margin-left: -.1%;
-    margin-bottom: -.5%;
+    margin-bottom: 1%;
+    margin-top: -1%;
 }
 
 .modding{
     font-size: 200%;
-    margin-right: 42%;
+    margin-right: 36%;
     margin-bottom: 4.9%;
 }
 
 .HB3{
     font-size: 147%;
-    margin-left: 25%;
-    margin-right:49%;
-    margin-bottom: -12.3%;
+    margin-left: 27%;
+    margin-right:29%;
+    margin-bottom: -9.5%;
     text-align: left;
     margin-top: -4%;
 }

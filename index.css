@@ -8,9 +8,18 @@ body {
     margin: 0;
     min-height: 100vh;
     box-sizing: border-box;
-
 }
 
+
+
+@media (min-width: 30em) and (max-width: 50em) {
+}
+
+@media (30em <= width <= 50em) {
+}
+
+@media (50em >= width >= 30em) {
+}
 
 .pawpal {
     max-width: 350px;
@@ -44,8 +53,8 @@ body {
 
     max-width: 350px;
     margin-left: 65%;
-    margin-top: -55%;
-    margin-bottom: 3.7%;
+    margin-top: -69%;
+    margin-bottom: 3.9%;
     transition: all 0.3s ease;
     text-align: center;
 
@@ -96,9 +105,8 @@ ul li:nth-child(3) {
 }
 
 .WD{
-margin-left: 89%;
+margin-left: 87%;
 margin-top: -5%;
 margin-bottom: 5%;
-
 
 }

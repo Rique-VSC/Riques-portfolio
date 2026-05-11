@@ -9,6 +9,15 @@ body {
 
 }
 
+@media (min-width: 30em) and (max-width: 50em) {
+}
+
+@media (30em <= width <= 50em) {
+}
+
+@media (50em >= width >= 30em) {
+}
+
 h1 {
     text-align: center;
     margin-top: 1%;

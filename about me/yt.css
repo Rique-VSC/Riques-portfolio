@@ -8,6 +8,15 @@ body{
 
   }
   
+  @media (min-width: 30em) and (max-width: 50em) {
+  }
+  
+  @media (30em <= width <= 50em) {
+  }
+  
+  @media (50em >= width >= 30em) {
+  }
+
   h1{
     text-align: center;
   }
@@ -23,18 +32,18 @@ body{
 
 .ITR{
   font-size: 147%;
-    margin-left: 27.7%;
+    margin-left: 31.7%;
     margin-top: 5%;
     text-align: left;
     margin-right: 26%;
-    margin-bottom: -2.8%;
+    margin-bottom: -6.8%;
 
 }
 
 .YT1{
   font-size: 180%;
   margin-bottom: -4%;
-  margin-left: -9%;
+  margin-left:6%;
 }
 
 
@@ -77,7 +86,8 @@ section2 img{
     width: 603px;           
     height: auto;
     margin-left: 69.7%;
-    margin-top: 3%;
+    margin-top: -5%;
+    margin-bottom: 7%;
      transition: all 0.3s ease;
 }
 
@@ -105,14 +115,15 @@ section3 img:hover{
 
 .YT3{
   font-size: 180%;
-  margin-left: -11%;
+  margin-left: 7%;
 }
 
 .BRC{
   font-size: 147%;
-    margin-left: 26%;
+    margin-left: 31%;
     margin-top: -1.6%;
-    margin-bottom: -1.4%;
+    margin-bottom: -3.1%;
     text-align: left;
     margin-right: 19%;
 }
+
