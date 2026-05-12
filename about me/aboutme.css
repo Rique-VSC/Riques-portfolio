@@ -6,7 +6,11 @@ body {
     border-color: #727D71;
     border-width: 2dvh;
     margin: 0;
-
+    background-image: url(/images/coolergreen.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
 }
 
 @media (min-width: 30em) and (max-width: 50em) {
@@ -21,6 +25,7 @@ body {
 h1 {
     text-align: center;
     margin-top: 1%;
+    margin-left: 89%;
 }
 
 img[src*="images (6) 1.png"] {
@@ -83,17 +88,27 @@ button:hover {
 
 
 .Socials {
-    font-size: 170%;
-    margin-left: 46%;
+    font-size: 190%;
+    margin-left: 2%;
+    margin-top: -.6%;
 }
 
 .Links {
-    margin-left: 51.5%;
-    margin-top: -3.2%;
+    margin-left: 7.5%;
+    margin-top: -3.4%;
     margin-bottom: 5%;
 }
 
 
-.back {
-    margin-left: 95%;
+button {
+    padding: 10px 25px;   
+    font-size: 1.1rem;     
+    cursor: pointer;       
+    border-radius: 8px;   
+    margin-left: 95%; 
+    margin-bottom: -40%;
+}
+
+button:hover {
+    transform: scale(1.1);
 }
