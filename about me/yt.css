@@ -1,129 +1,126 @@
-body{
-    font-family: 'Kay Pho Du';font-size: 22px;
-      background-color: rgb(255, 250, 226);
-      border-style: solid;
-    border-color: #727D71;
-    border-width: 2dvh;
-    margin: 0;
+body {
+  font-family: 'Kay Pho Du';
+  font-size: 22px;
+  background-color: rgb(255, 250, 226);
+  border-style: solid;
+  border-color: #727D71;
+  border-width: 2dvh;
+  margin: 0;
 
-  }
-  
-  @media (min-width: 30em) and (max-width: 50em) {
-  }
-  
-  @media (30em <= width <= 50em) {
-  }
-  
-  @media (50em >= width >= 30em) {
-  }
-
-  h1{
-    text-align: center;
-  }
-
-  h2{
-    text-align: center;
-  }
-
-  section1 {
-    font-size: larger;
-    text-align: right;
 }
 
-.ITR{
+@media (min-width: 30em) and (max-width: 50em) {}
+
+@media (30em <=width <=50em) {}
+
+@media (50em >=width >=30em) {}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+section1 {
+  font-size: larger;
+  text-align: right;
+}
+
+.ITR {
   font-size: 147%;
-    margin-left: 31.7%;
-    margin-top: 5%;
-    text-align: left;
-    margin-right: 26%;
-    margin-bottom: -6.8%;
+  margin-left: 35.7%;
+  margin-top: 5%;
+  text-align: left;
+  margin-right: 11%;
+  margin-bottom: -6.8%;
 
 }
 
-.YT1{
+.YT1 {
   font-size: 180%;
   margin-bottom: -4%;
-  margin-left:6%;
+  margin-left: 19%;
 }
 
 
-  section1 img{
-    width: 630px;           
-    height: auto;
-    margin-top: -11%;
-     transition: all 0.3s ease;
+section1 img {
+  width: 630px;
+  height: auto;
+  margin-top: -11%;
+  transition: all 0.3s ease;
 }
 
 
-section1 img:hover{
+section1 img:hover {
   transform: scale(1.2) rotate(15deg);
 }
 
 
-.YT2{
+.YT2 {
   font-size: 180%;
   margin-top: 6%;
   margin-right: 11%;
 }
 
 
-.Indies{
+.Indies {
   font-size: 147%;
-  margin-left: 27%;
+  margin-left: 21%;
   margin-top: -1%;
   text-align: left;
-  margin-right: 33%;
+  margin-right: 35%;
   margin-bottom: -12%;
 }
 
 
 section2 {
-    font-size: larger;
-    text-align: right;
+  font-size: larger;
+  text-align: right;
 }
 
-section2 img{
-    width: 603px;           
-    height: auto;
-    margin-left: 69.7%;
-    margin-top: -5%;
-    margin-bottom: 7%;
-     transition: all 0.3s ease;
+section2 img {
+  width: 603px;
+  height: auto;
+  margin-left: 65.7%;
+  margin-top: -7%;
+  margin-bottom: 7%;
+  transition: all 0.3s ease;
 }
 
-section2 img:hover{
-    transform: scale(1.2) rotate(-15deg);
+section2 img:hover {
+  transform: scale(1.2) rotate(-15deg);
 }
 
 
 section3 {
-    font-size: larger;
-    text-align: right;
+  font-size: larger;
+  text-align: right;
 }
 
-section3 img{
-    margin-top: -50%;
-    width: 610px;           
-    height: auto;
-    margin-bottom: -.3%;
-    transition: all 0.3s ease;
+section3 img {
+  margin-top: -50%;
+  width: 610px;
+  height: auto;
+  margin-bottom: -.3%;
+  transition: all 0.3s ease;
 }
 
-section3 img:hover{
-    transform: scale(1.2) rotate(15deg);
+section3 img:hover {
+  transform: scale(1.2) rotate(15deg);
 }
 
-.YT3{
+.YT3 {
   font-size: 180%;
-  margin-left: 7%;
+  margin-left: 17%;
 }
 
-.BRC{
+.BRC {
   font-size: 147%;
-    margin-left: 31%;
-    margin-top: -1.6%;
-    margin-bottom: -3.1%;
-    text-align: left;
-    margin-right: 19%;
+  margin-left: 34%;
+  margin-top: -1.6%;
+  margin-bottom: -1.1%;
+  text-align: left;
+  margin-right: 7.%;
 }
-

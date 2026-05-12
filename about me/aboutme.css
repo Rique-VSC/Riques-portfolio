@@ -6,21 +6,18 @@ body {
     border-color: #727D71;
     border-width: 2dvh;
     margin: 0;
-    background-image: url(/images/coolergreen.jpg);
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
-  background-attachment: fixed;
+    background-image: url(/images/coolgreen.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
 }
 
-@media (min-width: 30em) and (max-width: 50em) {
-}
+@media (min-width: 30em) and (max-width: 50em) {}
 
-@media (30em <= width <= 50em) {
-}
+@media (30em <=width <=50em) {}
 
-@media (50em >= width >= 30em) {
-}
+@media (50em >=width >=30em) {}
 
 h1 {
     text-align: center;
@@ -43,7 +40,7 @@ article1 img {
     transition: transform 0.3s ease;
     cursor: pointer;
     text-align: center;
-    margin-left: 10%;
+    margin-left: 2%;
 }
 
 article1 img:hover {
@@ -51,12 +48,14 @@ article1 img:hover {
 }
 
 article2 img {
-    width: 374px;
+    width: 400px;
     height: auto;
     transition: transform 0.3s ease;
     cursor: pointer;
-    text-align: center;
-    margin-left: 74%;
+    margin: 0;
+    margin-left: 5%;
+
+
 }
 
 article2 img:hover {
@@ -65,14 +64,14 @@ article2 img:hover {
 
 .MP {
     font-size: 200%;
-    text-align: center;
-    margin-left: 64%;
+    margin-left: 10%;
+
 }
 
 .hobbies {
     font-size: 200%;
-    margin-left: 10.7%;
-    margin-top: -1.3%
+    margin-left: 1.9%;
+    margin-top: 10px;
 }
 
 button {
@@ -94,21 +93,42 @@ button:hover {
 }
 
 .Links {
-    margin-left: 7.5%;
-    margin-top: -3.4%;
+    margin-left: 9.5%;
+    margin-top: -4.4%;
     margin-bottom: 5%;
+    transition: transform 0.3s ease;
+
 }
 
+.links:hover {
+    transform: scale(1.1);
+}
 
 button {
-    padding: 10px 25px;   
-    font-size: 1.1rem;     
-    cursor: pointer;       
-    border-radius: 8px;   
-    margin-left: 95%; 
+    padding: 10px 25px;
+    font-size: 1.1rem;
+    cursor: pointer;
+    border-radius: 8px;
+    margin-left: 95%;
     margin-bottom: -40%;
+    background-color: aliceblue;
 }
 
 button:hover {
     transform: scale(1.1);
+}
+
+.github {
+    width: 50px;
+    margin-left: 13%;
+    margin-top: -7.9%;
+    margin-bottom: 3%;
+    transition: transform 0.3s ease;
+}
+
+
+button:hover {
+    transform: scale(1.1);
+
+
 }

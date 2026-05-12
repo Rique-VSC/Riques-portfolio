@@ -1,0 +1,90 @@
+body {
+    font-family: 'Kay Pho Du';
+    font-size: 22px;
+    background-color: rgb(255, 250, 226);
+    border-style: solid;
+    border-color: #727D71;
+    border-width: 2dvh;
+    margin: 0;
+
+
+
+
+
+}
+
+@media (min-width: 30em) and (max-width: 50em) {}
+
+@media (30em <=width <=50em) {}
+
+@media (50em >=width >=30em) {}
+
+
+section1,
+section2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    margin: 50px auto;
+    max-width: 900px;
+    padding: 20px;
+}
+
+section1,
+section {
+
+    width: 300px;
+    min-width: 250px;
+    margin: 0;
+    text-align: left;
+    line-height: 1.4;
+    margin-left: 30%;
+}
+
+
+
+
+section1,
+section1 p,
+section2,
+section2 p {
+    width: 300px;
+    min-width: 250px;
+    margin: 0;
+    text-align: left;
+    line-height: 1.4;
+    margin-right: 0%;
+    margin-left: 30%;
+}
+
+img[alt="biohero"] {
+    width: 80%;
+    display: block;
+    margin: 0 auto 40px auto;
+}
+
+
+img[alt="biosum"],
+img[alt="biocode"] {
+    width: 600px;
+    height: auto;
+    margin: 0;
+    margin-left: 35.6%;
+}
+
+
+button {
+    padding: 10px 25px;
+    font-size: 1.1rem;
+    cursor: pointer;
+    border-radius: 8px;
+    margin-right: 0%;
+    margin-top: .1%;
+    background-color: aliceblue;
+
+}
+
+button:hover {
+    transform: scale(1.1);
+}
